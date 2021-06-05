@@ -1,0 +1,37 @@
+D:\STM32\Project_L1\RFID_coder\EWARM\RFID_coder\BrowseInfo\Drivers\STM32L1xx_HAL_Driver\stm32l1xx_hal_tim_ex.pbi: \
+  D:\STM32\Project_L1\RFID_coder\Drivers\STM32L1xx_HAL_Driver\Src\stm32l1xx_hal_tim_ex.c \
+  D:\STM32\Project_L1\RFID_coder\EWARM/../Drivers/STM32L1xx_HAL_Driver/Inc\stm32l1xx_hal.h \
+  D:\STM32\Project_L1\RFID_coder\EWARM/../Core/Inc\stm32l1xx_hal_conf.h \
+  D:\STM32\Project_L1\RFID_coder\EWARM/../Drivers/STM32L1xx_HAL_Driver/Inc\stm32l1xx_hal_rcc.h \
+  D:\STM32\Project_L1\RFID_coder\EWARM/../Drivers/STM32L1xx_HAL_Driver/Inc/stm32l1xx_hal_def.h \
+  D:\STM32\Project_L1\RFID_coder\EWARM/../Drivers/CMSIS/Device/ST/STM32L1xx/Include\stm32l1xx.h \
+  D:\STM32\Project_L1\RFID_coder\EWARM/../Drivers/CMSIS/Device/ST/STM32L1xx/Include/stm32l162xe.h \
+  D:\STM32\Project_L1\RFID_coder\EWARM/../Drivers/CMSIS/Include\core_cm3.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\c\stdint.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\c\ycheck.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\c\yvals.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\c\DLib_Defaults.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\c\DLib_Config_Full.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\c\DLib_Product.h \
+  D:\STM32\Project_L1\RFID_coder\EWARM/../Drivers/CMSIS/Include/cmsis_version.h \
+  D:\STM32\Project_L1\RFID_coder\EWARM/../Drivers/CMSIS/Include/cmsis_compiler.h \
+  D:\STM32\Project_L1\RFID_coder\EWARM/../Drivers/CMSIS/Include\cmsis_iccarm.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\c\aarch32\iccarm_builtin.h \
+  D:\STM32\Project_L1\RFID_coder\EWARM/../Drivers/CMSIS/Include/mpu_armv7.h \
+  D:\STM32\Project_L1\RFID_coder\EWARM/../Drivers/CMSIS/Device/ST/STM32L1xx/Include/system_stm32l1xx.h \
+  D:\STM32\Project_L1\RFID_coder\EWARM/../Drivers/STM32L1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\c\stddef.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\c\ysizet.h \
+  D:\STM32\Project_L1\RFID_coder\EWARM/../Drivers/STM32L1xx_HAL_Driver/Inc/stm32l1xx_hal_rcc_ex.h \
+  D:\STM32\Project_L1\RFID_coder\EWARM/../Drivers/STM32L1xx_HAL_Driver/Inc\stm32l1xx_hal_gpio.h \
+  D:\STM32\Project_L1\RFID_coder\EWARM/../Drivers/STM32L1xx_HAL_Driver/Inc/stm32l1xx_hal_gpio_ex.h \
+  D:\STM32\Project_L1\RFID_coder\EWARM/../Drivers/STM32L1xx_HAL_Driver/Inc\stm32l1xx_hal_dma.h \
+  D:\STM32\Project_L1\RFID_coder\EWARM/../Drivers/STM32L1xx_HAL_Driver/Inc\stm32l1xx_hal_cortex.h \
+  D:\STM32\Project_L1\RFID_coder\EWARM/../Drivers/STM32L1xx_HAL_Driver/Inc\stm32l1xx_hal_flash.h \
+  D:\STM32\Project_L1\RFID_coder\EWARM/../Drivers/STM32L1xx_HAL_Driver/Inc/stm32l1xx_hal_flash_ex.h \
+  D:\STM32\Project_L1\RFID_coder\EWARM/../Drivers/STM32L1xx_HAL_Driver/Inc/stm32l1xx_hal_flash_ramfunc.h \
+  D:\STM32\Project_L1\RFID_coder\EWARM/../Drivers/STM32L1xx_HAL_Driver/Inc\stm32l1xx_hal_pwr.h \
+  D:\STM32\Project_L1\RFID_coder\EWARM/../Drivers/STM32L1xx_HAL_Driver/Inc/stm32l1xx_hal_pwr_ex.h \
+  D:\STM32\Project_L1\RFID_coder\EWARM/../Drivers/STM32L1xx_HAL_Driver/Inc\stm32l1xx_hal_tim.h \
+  D:\STM32\Project_L1\RFID_coder\EWARM/../Drivers/STM32L1xx_HAL_Driver/Inc/stm32l1xx_hal_tim_ex.h \
+  D:\STM32\Project_L1\RFID_coder\EWARM/../Drivers/STM32L1xx_HAL_Driver/Inc\stm32l1xx_hal_exti.h
